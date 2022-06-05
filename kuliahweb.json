@@ -1,0 +1,15 @@
+[
+{"type":"header","version":"5.3.0-dev+20220508.7aa512c357","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kuliahweb"},
+{"type":"table","name":"buku","database":"kuliahweb","data":
+[
+{"isbn":"09873","judul":"AppMob","pengarang":"Budi","jumlah":"45","tanggal":"2022-01-12","abstrak":"abstrak........"},
+{"isbn":"09874","judul":"IMK","pengarang":"Budi","jumlah":"56","tanggal":"2022-02-04","abstrak":"abstrak........"},
+{"isbn":"09875","judul":"Pemrograman Web","pengarang":"Budi","jumlah":"25","tanggal":"2022-10-15","abstrak":"abstrak........"},
+{"isbn":"09876","judul":"Pengantar Informatika","pengarang":"Budi","jumlah":"25","tanggal":"2021-09-08","abstrak":"abstrak........"}
+]
+}
+]
+
+
+
